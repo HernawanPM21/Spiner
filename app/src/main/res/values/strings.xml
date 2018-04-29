@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spiner</string>
+    <string-array name="nama_kota">
+        <item>Semarang</item>
+        <item>Salatiga</item>
+        <item>Jakarta</item>
+    </string-array>
+</resources>
